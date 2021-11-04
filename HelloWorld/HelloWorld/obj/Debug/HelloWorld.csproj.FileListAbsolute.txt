@@ -1,0 +1,7 @@
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
