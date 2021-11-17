@@ -1,0 +1,10 @@
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\bin\Debug\ExercícioHack1.exe.config
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\bin\Debug\ExercícioHack1.exe
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\bin\Debug\ExercícioHack1.pdb
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\obj\Debug\ExercícioHack1.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\obj\Debug\ExercícioHack1.Form1.resources
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\obj\Debug\ExercícioHack1.Properties.Resources.resources
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\obj\Debug\ExercícioHack1.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\obj\Debug\ExercícioHack1.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\obj\Debug\ExercícioHack1.exe
+C:\Users\victo\OneDrive\Documentos\GitHub\My Brenaki\CSharp\Linhas\ExercícioHack1\ExercícioHack1\obj\Debug\ExercícioHack1.pdb
